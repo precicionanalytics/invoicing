@@ -1,0 +1,11 @@
+invoiceFileName=InvManifestmmddyyyy idx.pdf
+LLC_NAME = "Precision Analytics & Strategy LLC"
+LLC_ADDRESS = "6505 Roundrock Trail, Plano, Tx 75023"
+LLC_EMAIL = "contact@precision-analytics.com"
+LLC_PHONE = "+1 (469) 569-3289"
+BILL_TO = ["Manifest Legal Tech, Inc.", "333 Park Ave. S.", "New York, NY 10010"]
+INVOICE_NO = PA-mmddyyyy-idx
+PRICE=2500.00
+ACCOUNT_NAME=Precision Analytics & Strategy LLC
+ACCOUNT_NUMBER=488131348758
+ROUTING_NUMBER=111000025
